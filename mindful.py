@@ -90,7 +90,7 @@ class Py3status:
 
     def __play_sound(self, sound_fname):
         mixer.music.play(-1)
-
+        #repeats mp3 indefinitely. 
     def __stop_sound(self):
         mixer.music.stop()
     
