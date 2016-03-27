@@ -1,0 +1,9 @@
+#!/bin/bash
+
+a='/etc/hosts'
+b='/etc/hosts_blocked'
+c='/etc/hosts_unblocked'
+
+cp $b $a
+
+/etc/init.d/dns-clean restart

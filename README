@@ -1,0 +1,16 @@
+Sup guys, ZenBinary here.
+
+Here are two py3status modules I wrote.
+
+Mindful.py: Plays a meditation bell every 5 minutes.
+	-Requires pygame and an mp3 bell file of choice.
+
+Hosts.py: Toggles procrastination sites (fb, reddit, messenger, etc)
+	-Has 2 supporting scripts: unblock_hosts and block hosts
+	-Scripts swap out a modified and unmodified hosts file
+	-Permissions gained via gnome policy kit 
+
+Doubt anyones ever gonna use these, but I like them, enjoy =]
+
+
+
